@@ -11,7 +11,9 @@ and
 https://github.com/nytimes/covid-19-data/blob/master/mask-use/mask-use-by-county.csv
 
 The first is the data of the covid-19 cases and deathes of all states up to now. The second one is about the mask use by county in the US until July 2020. I plan to combine these two datasets and try to answer the question: is mask wearing really help with preventing the SARS-CoV2 infection?
+
 H0 will be wearing mask will not affect the infection rate.
+
 HA is it does affect the infection rate.
 
 Alternatively I can use the most recent survey data here: https://delphi.cmu.edu/covidcast/export/?signalType=value&mode=overview&sensor=fb-survey-smoothed_wearing_mask
