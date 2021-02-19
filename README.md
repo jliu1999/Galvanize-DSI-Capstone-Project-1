@@ -25,7 +25,8 @@ Dataset source:
 https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete
  
 I plan to use these four datasets: lifeExpectancyAtBirth.csv, population10%SDG3.8.2.csv, population25%SDG3.8.2.csv, medicalDoctors.csv 
-I'd like to establish a possible link between the life expectancy and health care expenditures per househol,  and medical doctors per capita.
+
+I'd like to establish a possible link between the life expectancy and health care expenditures per household,  and medical doctors per capita.
 
 
 ## Proposal 3
