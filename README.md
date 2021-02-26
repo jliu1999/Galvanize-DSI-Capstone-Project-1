@@ -1,9 +1,9 @@
 # Galvanize-DSI-Capstone-Project-1
 
-## Proposal
-**Life Expectance and Healthcare**
-
 ![](images/GH.jpg)
+
+# <center><ins> Life Expectance and Healthcare </ins></center>
+
 
 Dataset source:
 https://www.kaggle.com/utkarshxy/who-worldhealth-statistics-2020-complete
